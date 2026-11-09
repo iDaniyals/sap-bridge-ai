@@ -1,0 +1,11 @@
+SUPPLIER_ID,SUPPLIER_NAME,COUNTRY_CD,PAY_TERM,TAX_ID,EMAIL
+1001,ABC Industrial Supplies,IN,N030,27ABCDE1234F1Z5,accounts@abc.example
+1002,Global Components LLC,AE,N060,100200300400003,finance@global.example
+1003,Metro Electricals,IN,N030,,accounts@metro.example
+1004,ABC Industrial Supplies,IN,N030,27ABCDE1234F1Z5,accounts@abc.example
+1005,Desert Tools Trading,AE,N045,100500600700008,info@desert.example
+1006,Northstar Parts,US,N030,US-TAX-1006,contact@northstar.example
+1007,Prime Industrial,IN,INVALID_TERM,27PRIME1234F1Z1,finance@prime.example
+1008,Orion Supplies,AE,N060,100800900100002,
+1009,Vertex Components,IN,N030,27VERTEX1234F1Z2,accounts@vertex.example
+1010,Metro Electricals,IN,N030,,accounts@metro.example

@@ -1,0 +1,29 @@
+{
+  "required_fields": [
+    "SUPPLIER_ID",
+    "SUPPLIER_NAME",
+    "COUNTRY_CD",
+    "PAY_TERM"
+  ],
+  "allowed_country_codes": [
+    "IN",
+    "AE",
+    "US"
+  ],
+  "allowed_payment_terms": [
+    "N030",
+    "N045",
+    "N060"
+  ],
+  "fields_requiring_non_empty_values": [
+    "TAX_ID",
+    "EMAIL"
+  ],
+  "exact_duplicate_fields": [
+    "SUPPLIER_NAME",
+    "COUNTRY_CD",
+    "PAY_TERM",
+    "TAX_ID",
+    "EMAIL"
+  ]
+}
